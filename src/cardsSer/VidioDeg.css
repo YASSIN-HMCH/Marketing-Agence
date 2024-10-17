@@ -1,0 +1,19 @@
+.video-w {
+    position: relative;
+    padding-bottom: 45.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    width: 100%; /* Keep it full width of the container */
+    margin: 0 auto; /* Center the video */
+}
+
+.video-w iframe {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%) scale(0.8); /* Scale down to 80% */
+    width: 100%; /* Keep iframe full width */
+    height: 100%; /* Keep iframe full height */
+    border-radius: 14px;
+    pointer-events: none; /* Optional: Prevent interactions if needed */
+}
