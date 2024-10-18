@@ -9,9 +9,6 @@ import Marketing from './cardsSer/Marketing';
 import Taxation from './cardsSer/Taxation';
 import StarUp from './cardsSer/StarUp';
 import BusPlan from './cardsSer/BusPlan';
-import VidioDeg from './cardsSer/VidioDeg';
-import BusAnalytic from './cardsSer/BusAnalytic';
-import StockInves from './cardsSer/StockInves';
 import {BrowserRouter,Routes,Route} from 'react-router-dom';
 
 function App() {
@@ -28,9 +25,6 @@ function App() {
     <Route path='/Taxation' element={<Taxation/>}/>
     <Route path='/StarUp' element={<StarUp/>}/>
     <Route path='/BusPlan' element={<BusPlan/>}/>
-    <Route path='/VidioDeg' element={<VidioDeg/>}/>
-    <Route path='/BusAnalytic' element={<BusAnalytic/>}/>
-    <Route path='/StockInves' element={<StockInves/>}/>
 
    </Routes>
    </BrowserRouter>
