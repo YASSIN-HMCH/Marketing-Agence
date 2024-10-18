@@ -213,7 +213,7 @@ function Services() {
                             <span class="meta-value">Investment</span>
                             <a href="#blog" class="blog-desc">Strength solutions
                             </a>
-                            <a href="vidioDeg" style={{ color: 'white'}} className="read" >watch a video</a>
+                            
                             {/* <a href="/" class="btn btn-style-primary btn-style text-white mt-4">Read
                                 More<i class="fas fa-arrow-right ms-1"></i></a> */}
                         </div>
@@ -225,7 +225,7 @@ function Services() {
                             <span class="meta-value">Strategy</span>
                             <a href="#blog" class="blog-desc">Business analytics
                             </a>
-                            <a href="BusAnalytic" style={{ color: 'white'}} className="read">watch a video</a>
+                            
                             {/* <a href="#blog" class="btn btn-style-primary btn-style text-white mt-4">Read
                                 More<i class="fas fa-arrow-right ms-1"></i></a> */}
                         </div>
@@ -237,7 +237,7 @@ function Services() {
                             <span class="meta-value"> Tax Consulting </span>
                             <a href="#blog" class="blog-desc">Stock investments
                             </a>
-                            <a href="StockInves" style={{ color: 'white'}} className="read">watch a video</a>
+                
                             {/* <a href="#blog" class="btn btn-style-primary btn-style text-white mt-4">Read
                                 More<i class="fas fa-arrow-right ms-1"></i></a> */}
                         </div>

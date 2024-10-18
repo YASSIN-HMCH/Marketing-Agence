@@ -467,7 +467,7 @@ function Home() {
                             <div className="blog-info">
                             
                                 <h4><a href="#blog">How To Scale a Dropshipping Business</a></h4>
-                                <a href="vidioDeg" className="read">watch a video</a>
+                                
                                 <p>Scale your dropshipping business by optimizing your website, 
                                     enhancing marketing efforts, expanding product range, automating processes,
                                      building strong supplier relationships, 
@@ -490,7 +490,7 @@ function Home() {
                             <a href="#blog"><img src="assets/images/blog3.jpg" alt="" /></a>
                             <div className="blog-info">
                                 <h4><a href="#blog">Customer Onboarding Strategy</a></h4>
-                                <a href="BusAnalytic" className="read">watch a video</a>
+                        
                                 <p>Implement a customer onboarding strategy that includes welcome 
                                     communication, guided setup, personalized support, engagement check-ins,
                                      a resource library, and feedback gathering 
@@ -512,7 +512,7 @@ function Home() {
                             <a href="#blog"><img src="assets/images/blog2.jpg" alt="" /></a>
                             <div className="blog-info">
                                 <h4><a href="#blog">What should I consider before investing in stocks</a></h4>
-                                <a href="StockInves" className="read">watch a video</a>
+        
                                 <p>Before investing in stocks, evaluate the company's financial health
                                      through its earnings, debt levels, and growth potential. Consider 
                                      market trends and economic conditions, diversify your portfolio to manage risk,
